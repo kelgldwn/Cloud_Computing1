@@ -37,7 +37,7 @@ export default function App() {
         <div className="auth-header">
           <h1>PHS Club Hub</h1>
           <p>Pampanga High School</p>
-          <p className="auth-subtitle">Club Organization & Managementasdasdasdas</p>
+          <p className="auth-subtitle">Club Organization & Management</p>
         </div>
 
         <form onSubmit={handleSubmit}>
